@@ -5,7 +5,6 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 
 ## Live links (replace with your own)
 - Leaflet Map https://earthdata.github.io/swissmap/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1PRZp5jzotF3LQhc_JCgON2oM2oxWCv_6hr6z_Zlv8LY/edit#gid=745832354
 
 ## Create your own
 See step-by-step tutorial in *Hands-On Data Visualization* https://handsondataviz.org/leaflet-maps-with-google-sheets.html
